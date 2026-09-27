@@ -56,5 +56,3 @@ class Ananya:
 
     def say_hi(self):
         print("Thanks for visiting my profile! 🚀")
-What I Work With
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,pandas,numpy,sklearn,tensorflow" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,aws" /> </p>
