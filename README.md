@@ -20,39 +20,19 @@
 
 ## 🚀 About Me
 
-```python
-class Ananya:
+Hi 👋 I'm **Ananya Datta**, a Data Science enthusiast passionate about turning data into meaningful insights and building practical machine learning solutions.
 
-    def __init__(self):
-        self.name = "Ananya Datta"
-        self.role = "Data Scientist / Data Analyst"
-        self.location = "Kolkata, India"
+- 🔭 Currently working on **Data Science & Machine Learning projects**
+- 🌱 Currently learning **Advanced Machine Learning, Deep Learning & Cloud Computing**
+- 📊 Interested in **Data Analytics, Big Data & Business Intelligence**
+- 🧠 Experienced with **Python, SQL, Pandas, NumPy & Scikit-learn**
+- 🤖 Exploring **TensorFlow, Keras, Time Series & AI**
+- 📈 Love creating **data visualizations and analytical dashboards**
+- 💼 Open to opportunities in **Data Science, Data Analytics & Machine Learning**
+- 🚀 Goal: **Build impactful, real-world data solutions**
 
-        self.languages = [
-            "Python",
-            "SQL",
-            "Java"
-        ]
+<br>
 
-        self.tools = [
-            "Pandas",
-            "NumPy",
-            "Scikit-learn",
-            "TensorFlow",
-            "Keras",
-            "Statsmodels",
-            "Power BI",
-            "Excel"
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analytics",
-            "Big Data",
-            "Time Series Forecasting",
-            "Data Visualization"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Data+into+Insights+%F0%9F%9A%80" />
+</p>
